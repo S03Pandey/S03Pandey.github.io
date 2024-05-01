@@ -2,9 +2,9 @@
 
 ---
 
-### Learn About My Projects
+### Data Analytics Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
